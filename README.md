@@ -1,6 +1,31 @@
+# Amazon First Page UI Design
 
-<h1 align="center">👋 Hi, I’m Jay Govind Kumar</h1>
-<h3 align="center">🌱 Do you want to see the output? Click me 👉<a href="https://jay-govind.github.io/Amazon-Clone/" target="_blank"><img width="250px" src="./output.png"></a></h3><br><br>
-<ul>
-  <li><p>Developed at an beginner level, showcasing proficiency in front-end web development techniques.</p></li>
-</ul>
+<br>
+
+## Clone the repo in your PC 🧑‍💻
+> Run the below command in your terminal 
+```
+git clone https://github.com/Jay-Govind/Amazon-Clone.git
+```
+<br>
+
+> [👉 Click Me To Check Output](https://jay-govind.github.io/Amazon-Clone)
+
+<br>
+
+### Description
+> <ul>
+  <li>My First Try in the coding world 😉</li>
+  <li>Developed at an beginner level, showcasing proficiency in front-end web development techniques.</li>
+  </ul>
+
+<br>
+
+## 📸 ScreenShots
+|![1](<./images/output1.png>)|
+|-------------------------------|
+|![2](<./images/output2.png>)| 
+|![3](<./images/output3.png>)|
+
+## ⚖️ License 
+> License - [Click Me]()
