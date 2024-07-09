@@ -28,4 +28,4 @@ git clone https://github.com/Jay-Govind/Amazon-Clone.git
 |![3](<./images/output3.png>)|
 
 ## ⚖️ License 
-> License - [Click Me]()
+> License - [Click Me](https://github.com/Jay-Govind/Amazon-Clone/blob/56e58e8d85e70719bf3f0a4baa94a91c912befab/LICENSE)
